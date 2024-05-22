@@ -5,8 +5,3 @@
 - 🌱 I’m currently learning C Concepts
 - 📫 How to reach me shanmukanetla1903@gmail.com
 - 😄 Pronouns: He/Him
-
-<!---
-Shanmukaharsha19/Shanmukaharsha19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
